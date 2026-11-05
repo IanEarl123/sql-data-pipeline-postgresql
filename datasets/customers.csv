@@ -1,0 +1,6 @@
+customer_id, first_name, last_name, gender, marital_status, create_date
+1, Juan ,Dela Cruz,M.S,2024-01-15
+2,Maria, Santos, F ,M,2024-02-20
+3,Jose,Reyes, ,S,2024-03-05
+3,Jose,Reyes,M,S,2024-03-10
+4,Ana  ,  Garcia,F , ,2024/04/01
